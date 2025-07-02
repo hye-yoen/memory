@@ -1,0 +1,5 @@
+set > co..
+pull requests > new pull reqeusts >create.. > view pull..
+set > branch > name( ex) main) >Look branch
+set >brnach > name( ex) dev) >repire a pull requset... > requre approvlas (몇 명이상의 승인 댓글)
+pull requests > 병합요청 > files changed > review changes > comment, appove  
