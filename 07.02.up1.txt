@@ -1,0 +1,16 @@
+github
+set > collaboretors : member invite
+pull requests > new pull reqeusts >create.. > view pull..
+set > branch > name( ex) main) >Look branch :보기만 가능
+set >brnach > name( ex) dev) >repire a pull requset... > requre approvlas (몇 명이상의 승인 댓글)
+pull requests > 병합요청 > files changed > review changes > comment, appove  
+
+<figma>
+shift + R 눈금자 구현
+텍스트 + ctr,shift + 도형 => 도형 가준 텍스트 정렬? 
+(HTML 색상표)
+
+<wireframe>
+ctr +prame(exsit)
+(figma wireframe kit)
+빈공간,오른쪽 마우스 > 플러그인 > 플러그 관리 들어가서 저장 해야함.. 
