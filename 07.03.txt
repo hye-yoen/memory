@@ -1,0 +1,22 @@
+<시험내용>
+요사항(리스트 -> USECASE -> 명세서)
+와이어프레임 or 프로토타입(메인페이지 _서브페이지 가 인원수대로)
+스타일 가이드(레이아웃,로고,글꼴,크기,버튼)
+
+project >board >tode >issues 
+T as.. ,labels  M crate branch
+!누군가가 먼저 올렸다면 무조건 받고 올려야 함! 
+issue 지정(assign) : tode ->process
+issue close : tode -> done
+(isuue checklist >> [ ] ) 
+
+1 조장 프로젝트 생성 
+2 할일 만들기(isuue)
+3. 조장 issue -프로젝트 연결
+4 조장 프로젝트에서 inprogress로 이동시키기
+-------
+6 조원 branch 생성 후 작업 시작
+7 작업 완료 후 git add commit push
+github에서 PR요청
+승인댓글 달기 
+머지 처리
