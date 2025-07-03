@@ -2,21 +2,27 @@
 요사항(리스트 -> USECASE -> 명세서)
 와이어프레임 or 프로토타입(메인페이지 _서브페이지 가 인원수대로)
 스타일 가이드(레이아웃,로고,글꼴,크기,버튼)
+<git>
+ Projects란?
+프로젝트는 작업 현황과 진행도를 볼 수 있는 메뉴이다. 이슈, PR(풀 리퀘스트)들을 하나의 작업으로 구분해 그 작업이 현재 어느 정도 진행되었는지 확인할 수 있다. 
 
-project >board >tode >issues 
-T as.. ,labels  M crate branch
+project >board >tode >issues  <1?
+T as.. ,labels  M crate branch 
 !누군가가 먼저 올렸다면 무조건 받고 올려야 함! 
-issue 지정(assign) : tode ->process
-issue close : tode -> done
+조장: issue 지정(assign) : tode ->process
+조장 : issue close : tode -> done???
 (isuue checklist >> [ ] ) 
 
-1 조장 프로젝트 생성 
-2 할일 만들기(isuue)
+1 조장 프로젝트 생성 project >board
+2 할일 만들기(isuue) 
 3. 조장 issue -프로젝트 연결
-4 조장 프로젝트에서 inprogress로 이동시키기
+4 조장 프로젝트에서 inprogress로 이동시키기 
 -------
-6 조원 branch 생성 후 작업 시작
-7 작업 완료 후 git add commit push
-github에서 PR요청
-승인댓글 달기 
-머지 처리
+6 조원 branch 생성 후 작업 시작 1. issue > create branch 2. ^^
+7 작업 완료 후 git add, commit, push (git clone https:~~ 한 후)
+8 github에서 Pull Request 요청
+9 승인댓글 달기 (나머지 조원)
+10 merge 처리 
+
+
+
