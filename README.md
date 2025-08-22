@@ -1,3 +1,3 @@
 # memory
 
-memory bigdata
+memory git
